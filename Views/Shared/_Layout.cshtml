@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <title>@ViewData["Title"] - OttoFlights</title>
+    <link rel="stylesheet" href="~/assets/bootstrap/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/assets/css/main.css" asp-append-version="true" />
+    <noscript>
+        <link rel="stylesheet" href="~/assets/css/noscript.css" />
+    </noscript>
+
+</head>
+
+<body>
+    <header id="header">
+        <div class="inner">
+            <!-- Logo -->
+            <a asp-area="" asp-controller="Home" asp-action="Index" class="logo">
+                <span class="fa fa-plane"></span> <span class="title">OTTO FLIGHTS</span>
+            </a>
+
+            <!-- Nav -->
+            <nav>
+                <ul>
+                    <li><a href="#menu">Menu</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+   <nav id="menu">
+    <h2>Menu</h2>
+    <ul>
+        <li><a asp-area="" asp-controller="Home" asp-action="Index" class="active">Home</a></li>
+        @if (Context.Session.GetString("UserId") != null)
+        {
+            var userRole = Context.Session.GetString("UserRole");
+            if (userRole == "Admin")
+            {
+                <li><a asp-area="" asp-controller="Vols" asp-action="Index">Vols</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Chat">Parlez avec un client</a></li>
+            }
+            else if (userRole == "Utilisateur")
+            {
+                <li><a asp-area="" asp-controller="Vols" asp-action="IndexUtilisateur">Vols</a></li>
+                <li><a asp-area="" asp-controller="Home" asp-action="Chat">Parlez avec un administrateur</a></li>
+            }
+            <li><a asp-area="" asp-controller="Utilisateurs" asp-action="Deconnexion">Déconnexion</a></li>
+        }
+        else
+        {
+            <li><a asp-area="" asp-controller="Utilisateurs" asp-action="Connexion">Connexion</a></li>
+        }
+        
+    </ul>
+</nav>
+
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer id="footer">
+        <div class="inner">
+            <section class="center">
+                &copy; 2023 - OttoFlights - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+            </section>
+        </div>
+    </footer>
+
+    <script src="~/assets/js/jquery.min.js"></script>
+    <script src="~/assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/assets/js/jquery.scrolly.min.js"></script>
+    <script src="~/assets/js/jquery.scrollex.min.js"></script>
+    <script src="~/assets/js/main.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+
+</html>

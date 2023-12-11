@@ -1,0 +1,61 @@
+@model OttoFlights.Models.Vol
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Vol</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DatePrevue)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DatePrevue)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DateRevue)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DateRevue)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NumeroVol)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NumeroVol)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Agence)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Agence)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Provenance)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Provenance)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Etat)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Etat)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input id="id" type="hidden" asp-for="VolId" />
+        <input type="submit" id="deletebt" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
+
+@section Scripts {
+<script src="~/js/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/Delete.js"></script> }

@@ -1,0 +1,509 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OttoFlights.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OttoFlights.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\css\\main.css",
+      "PackagePath": "staticwebassets\\assets\\css\\main.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\css\\noscript.css",
+      "PackagePath": "staticwebassets\\assets\\css\\noscript.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\js\\jquery.scrollex.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.scrollex.min.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\js\\jquery.scrolly.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.scrolly.min.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\AvionAirLines.jpg",
+      "PackagePath": "staticwebassets\\images\\AvionAirLines.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\Departure.jpeg",
+      "PackagePath": "staticwebassets\\images\\Departure.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\Flight Status Hero.jpeg",
+      "PackagePath": "staticwebassets\\images\\Flight Status Hero.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\HomeAvion.jpg",
+      "PackagePath": "staticwebassets\\images\\HomeAvion.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\banner-image-1-1920x500.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-image-1-1920x500.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\banner-image-2-1920x500.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-image-2-1920x500.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\banner-image-3-1920x500.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-image-3-1920x500.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\banner-image-4-1920x500.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-image-4-1920x500.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\banner-image-5-1920x500.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-image-5-1920x500.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\banner-image-6-1920x500.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-image-6-1920x500.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\banner-image-7-1920x500.jpg",
+      "PackagePath": "staticwebassets\\images\\banner-image-7-1920x500.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\blog-1-720x480.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-1-720x480.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\blog-2-720x480.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-2-720x480.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\blog-3-720x480.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-3-720x480.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\blog-4-720x480.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-4-720x480.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\blog-5-720x480.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-5-720x480.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\blog-6-720x480.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-6-720x480.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\blog-fullscreen-1-1920x700.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-fullscreen-1-1920x700.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\map.jpg",
+      "PackagePath": "staticwebassets\\images\\map.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\phoneApp.jpg",
+      "PackagePath": "staticwebassets\\images\\phoneApp.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\product-1-720x480.jpg",
+      "PackagePath": "staticwebassets\\images\\product-1-720x480.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\product-2-720x480.jpg",
+      "PackagePath": "staticwebassets\\images\\product-2-720x480.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\product-3-720x480.jpg",
+      "PackagePath": "staticwebassets\\images\\product-3-720x480.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\product-4-720x480.jpg",
+      "PackagePath": "staticwebassets\\images\\product-4-720x480.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\product-5-720x480.jpg",
+      "PackagePath": "staticwebassets\\images\\product-5-720x480.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\product-6-720x480.jpg",
+      "PackagePath": "staticwebassets\\images\\product-6-720x480.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\slider-image-1-1920x700.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-image-1-1920x700.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\slider-image-2-1920x700.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-image-2-1920x700.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\images\\slider-image-3-1920x700.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-image-3-1920x700.jpg"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\js\\Create.js",
+      "PackagePath": "staticwebassets\\js\\Create.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\js\\Delete.js",
+      "PackagePath": "staticwebassets\\js\\Delete.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\js\\Edit.js",
+      "PackagePath": "staticwebassets\\js\\Edit.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\js\\IndexVols.js",
+      "PackagePath": "staticwebassets\\js\\IndexVols.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\js\\IndexVolsUtilisateur.js",
+      "PackagePath": "staticwebassets\\js\\IndexVolsUtilisateur.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\js\\chat.js",
+      "PackagePath": "staticwebassets\\js\\chat.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\js\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\js\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "c:\\Users\\MCS\\applicationwebottoflights\\OttoFlights\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OttoFlights.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OttoFlights.props",
+      "PackagePath": "build\\OttoFlights.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OttoFlights.props",
+      "PackagePath": "buildMultiTargeting\\OttoFlights.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OttoFlights.props",
+      "PackagePath": "buildTransitive\\OttoFlights.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,48 @@
+@model IEnumerable<OttoFlights.Models.VolEvenementViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Evenement.DateRevisée)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Evenement.Statut)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Vol.NumeroVol)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Evenement.DateRevisée)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Evenement.Statut)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem =>  item.Vol.NumeroVol)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Evenement.EvenementId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Evenement.EvenementId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Evenement.EvenementId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

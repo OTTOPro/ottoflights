@@ -1,0 +1,65 @@
+@model OttoFlights.Models.Vol
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Ajouter</h1>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="DatePrevue" class="control-label"></label>
+                <input asp-for="DatePrevue" id="datePrevue" class="form-control" type="datetime-local" />
+                <span asp-validation-for="DatePrevue" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DateRevue" class="control-label"></label>
+                <input asp-for="DateRevue" id="dateRevue" class="form-control" readonly />
+                <span asp-validation-for="DateRevue" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NumeroVol" class="control-label"></label>
+                <input asp-for="NumeroVol" id="numeroVol" class="form-control" />
+                <span asp-validation-for="NumeroVol" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Agence" class="control-label"></label>
+                <input asp-for="Agence" id="agence" class="form-control" />
+                <span asp-validation-for="Agence" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Provenance" class="control-label"></label>
+                <input asp-for="Provenance" id="provenance" class="form-control" />
+                <span asp-validation-for="Provenance" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Etat" class="control-label"></label>
+                <select asp-for="Etat" id="etat" class="form-control">
+                    <option value="Arrivé">Arrivé</option>
+                    <option value="Retardé">Retardé</option>
+                    <option value="Planifié" selected>Planifié</option>
+                    <option value="Annulé">Annulé</option>
+                </select>
+                <span asp-validation-for="Etat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input id="createbt" type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+    <script src="~/js/signalr/dist/browser/signalr.js"></script>
+    <script src="~/js/Create.js"></script>
+}

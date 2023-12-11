@@ -1,0 +1,73 @@
+@model OttoFlights.Models.Vol
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Vol</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DatePrevue)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DatePrevue)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.DateRevue)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.DateRevue)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.NumeroVol)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NumeroVol)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Agence)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Agence)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Provenance)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Provenance)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Etat)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Etat)
+        </dd>
+    </dl>
+</div>
+<h4>Evenements</h4>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Date Revisée</th>
+            <th>Statut</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var evenement in Model.Evenements)
+        {
+            <tr>
+                <td>@evenement.DateRevisée</td>
+                <td>@evenement.Statut</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.VolId">Edit</a> |
+    <a asp-action="@(Context.Session.GetString("UserRole") == "Admin" ? "Index" : "IndexUtilisateur")">Back to List</a>
+
+</div>

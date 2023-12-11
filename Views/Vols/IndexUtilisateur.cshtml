@@ -1,0 +1,47 @@
+@model IEnumerable<OttoFlights.Models.Vol>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+    integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous" />
+    
+<h1>Departures</h1>
+
+<table class="table display" id="volsTable">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DatePrevue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DateRevue)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NumeroVol)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Agence)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Provenance)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Etat)
+            </th>
+            <th>
+                Details
+            </th>
+        </tr>
+    </thead>
+    <tbody id="vols">
+    </tbody>
+</table>
+
+@section Scripts {
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.7/css/jquery.dataTables.min.css" />
+    <script src="~/js/signalr/dist/browser/signalr.js"></script>
+    <script src="~/js/IndexVolsUtilisateur.js"></script>
+</script>
+}
